@@ -3,7 +3,7 @@
 
 Remember symbologist Robert Langdon? Help him on his quest to save Vatican and the world from the threat of the Illuminati.
 
-![illuminati](https://github.com/christianromero90/text_adventure_game/Angels-and-Demons_JohnLangdon.gif?raw=true)
+![illuminati](https://github.com/christianromero90/text_adventure_game/angels--demons-50670e193f399.png?raw=true)
 
 
 This is a project from the course ***Data Science: Python*** which is a part of **Hult's MSc. in Business Analytics program in Boston**.
